@@ -1,63 +1,78 @@
-# **Aman Kanthiwar** 
-#### Data Engineer | Cloud Architect | ETL Specialist
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?logo=linkedin)](https://linkedin.com/in/aman-kanthivar-272725240)
-[![Email](https://img.shields.io/badge/Email-amankanthiwar32%40gmail.com-%23D14836?logo=gmail)](mailto:amankanthiwar32@gmail.com)
-[![Resume](https://img.shields.io/badge/📄-Download_Resume-%230385D0)](https://github.com/Sk928551/Sk928551/raw/main/Aman_Kanthiwar_Resume.pdf)
+
+# 👋 Aman Kanthiwar
+
+**Data Engineer | Cloud Architect | ETL Specialist**  
+📍 Pune, Maharashtra | 📧 amankanthiwar32@gmail.com | 📞 +91 7020931214  
+🔗 [LinkedIn](https://linkedin.com/in/aman-kanthiwar-272725240) | [GitHub](https://github.com/Sk928551)
 
 ---
 
-### **🛠️ Core Stack**
-| **Category**       | **Technologies**                                                                 |
-|--------------------|---------------------------------------------------------------------------------|
-| **Cloud**          | ![AWS](https://img.shields.io/badge/AWS-%23FF9900?logo=amazon-aws) ![Azure](https://img.shields.io/badge/Azure-%230089D6?logo=microsoft-azure) ![GCP](https://img.shields.io/badge/GCP-%234285F4?logo=google-cloud) ![Snowflake](https://img.shields.io/badge/Snowflake-%2329B5E8?logo=snowflake) |
-| **Data Pipelines** | ![Airflow](https://img.shields.io/badge/Airflow-%2317C2B8?logo=apache-airflow) ![Kafka](https://img.shields.io/badge/Kafka-%23231F20?logo=apache-kafka) ![Spark](https://img.shields.io/badge/Spark-%23E25A1C?logo=apache-spark) |
-| **Languages**      | ![Python](https://img.shields.io/badge/Python-%233776AB?logo=python) ![SQL](https://img.shields.io/badge/SQL-%234479A1?logo=postgresql) ![PySpark](https://img.shields.io/badge/PySpark-%23E25A1C) |
-| **BI/Visualization** | ![PowerBI](https://img.shields.io/badge/Power_BI-%23F2C811?logo=powerbi) ![Tableau](https://img.shields.io/badge/Tableau-%23E97627?logo=tableau) |
+## 🛠️ Tech Stack Overview
+
+| Category         | Technologies                                |
+|------------------|---------------------------------------------|
+| **Cloud**        | AWS, Azure, GCP, Snowflake                  |
+| **Pipelines**    | Apache Airflow, Kafka, Apache Spark         |
+| **Languages**    | Python, SQL, PySpark                        |
+| **BI Tools**     | Power BI, Tableau                           |
+| **DevOps**       | Docker, GitHub Actions                      |
 
 ---
 
-### **🚀 Featured Projects**
-#### **1. Real-Time Weather Data Pipeline** | [![Code](https://img.shields.io/badge/GitHub-View_Code-%23181717?logo=github)](https://github.com/Sk928551/weather-etl)
-- Built serverless ETL on **GCP** (Cloud Functions + BigQuery)
-- Automated with **Cloud Scheduler**
-- **Tech**: Python, REST APIs, JSON parsing
+## 🚀 Highlighted Projects
 
-#### **2. E-Commerce Streaming Pipeline** | [![Code](https://img.shields.io/badge/GitHub-View_Code-%23181717?logo=github)](https://github.com/Sk928551/ecommerce-kafka)
-- Real-time order processing with **Kafka** + **Docker**
-- Snowflake integration for analytics
-- **Impact**: 40% faster data availability
+### 1. Real-Time Weather ETL Pipeline
+- Built a serverless ETL pipeline using GCP Cloud Functions & Scheduler.
+- Consumed OpenWeatherMap API and stored results in BigQuery.
+- Stack: Python, JSON, REST API, GCP
 
-#### **3. Stock Price Analytics** | [![Code](https://img.shields.io/badge/GitHub-View_Code-%23181717?logo=github)](https://github.com/Sk928551/stock-airflow)
-- **Airflow**-orchestrated pipeline with **AWS S3**
-- Financial Modeling Prep API integration
-- **Feature**: Automated moving averages calculation
+### 2. E-Commerce Streaming Pipeline
+- Real-time order ingestion using Kafka producers and consumers.
+- Containerized deployment with Docker, stored in Snowflake.
+- Result: 40% faster data availability for analysis.
 
----
+### 3. Daily Stock Price Pipeline (AWS + Airflow)
+- Used Financial Modeling Prep API and transformed data using Pandas.
+- Automated ETL using Airflow and loaded to Amazon S3.
 
-### **📈 GitHub Analytics**
-| ![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sk928551&show_icons=true&theme=radical&hide_border=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sk928551&layout=compact&theme=radical&hide_border=true) |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
+### 4. AI-Powered KYC Verification System
+- Automated Aadhaar/PAN verification using OCR & anomaly detection.
+- Developed scalable ETL pipeline with Python & Pandas.
 
 ---
 
-### **🎯 Currently Building**
-- [ ] **ML Feature Store** with **Feast Framework**
-- [ ] **Data Quality Monitoring** using **Great Expectations**
-- [ ] **CI/CD for Data Pipelines** with **Dagster**
+## 🎓 Education
+
+**B.Tech – Electronics & Telecommunication**  
+G.H. Raisoni College of Engineering, Nagpur (2020 – 2024) | CGPA: 8.58
 
 ---
 
-### **📜 Certifications**
-- **IABAC Certified Data Engineer** (Datamites)
-- **Microsoft Power BI** (PwC Forage)
-- **AWS Cloud Practitioner** (In Progress)
+## 🏅 Certifications
+
+- 🧠 Certified Data Engineer – Datamites & IABAC  
+- 📊 Power BI Job Simulation – PwC Forage  
+- 📈 Excel Skills for Business – JPMorgan Chase (Forage)  
+- 📉 Business Analytics with Excel – Microsoft (SkillLearn)
 
 ---
 
-### **📫 Let's Collaborate!**
-- **Open to**: Data Engineering roles | Cloud Projects | Open-source contributions
-- **How to reach me**: 
-  ```bash
-  Email: amankanthivar52@gmail.com
-  Phone: +91 7020931214
-  LinkedIn: https://linkedin.com/in/aman-kanthivar-272725240
+## 🔥 Currently Building
+
+- ML Feature Store using **Feast Framework**
+- Data Quality Testing with **Great Expectations**
+- CI/CD for Data Pipelines using **Dagster**
+
+---
+
+## 🤝 Let’s Connect!
+
+I'm open to:  
+- Full-time **Data Engineering** roles  
+- Cloud & ETL Projects  
+- Open-source Data Collaboration
+
+📬 **Reach out to me:**  
+📧 Email: amankanthiwar32@gmail.com  
+📞 Phone: +91 7020931214  
+🔗 [LinkedIn](https://linkedin.com/in/aman-kanthiwar-272725240)
