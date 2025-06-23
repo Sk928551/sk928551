@@ -1,7 +1,7 @@
 # **Aman Kanthiwar** 
 #### Data Engineer | Cloud Architect | ETL Specialist
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?logo=linkedin)](https://linkedin.com/in/aman-kanthivar-272725240)
-[![Email](https://img.shields.io/badge/Email-amankanthivar52%40gmail.com-%23D14836?logo=gmail)](mailto:amankanthivar52@gmail.com)
+[![Email](https://img.shields.io/badge/Email-amankanthiwar32%40gmail.com-%23D14836?logo=gmail)](mailto:amankanthiwar32@gmail.com)
 [![Resume](https://img.shields.io/badge/📄-Download_Resume-%230385D0)](https://github.com/Sk928551/Sk928551/raw/main/Aman_Kanthiwar_Resume.pdf)
 
 ---
