@@ -1,92 +1,94 @@
-# 👋 Hi, I'm Aman Kanthiwar
-
-**Data Engineer | Data Analyst | Python Enthusiast | AI Learner**  
+# 👋 Hi, I'm Aman Kanthiwar  
+**Data Engineer | Analyst | AI & Automation Enthusiast**  
 📍 Pune, India | 📧 amankanthiwar32@gmail.com | 📞 +91 7020931214  
-🔗 [LinkedIn](https://linkedin.com/in/aman-kanthiwar-272725240) | [GitHub](https://github.com/Sk928551)
+
+🔗 [LinkedIn](https://www.linkedin.com/in/amankanthiwar) | [GitHub](https://github.com/amankanthiwar)
 
 ---
 
-## 📊 Turning Data into Decisions
+## 🧠 About Me
 
-I'm a passionate **Data Engineer and Analyst** who transforms raw data into powerful insights.  
-With a strong foundation in **Python, SQL, BI tools, and Cloud**, I'm currently diving deep into **AI-powered data engineering** to build intelligent pipelines, automate workflows, and drive smarter analytics.
-
----
-
-## 🛠️ Tech Stack
-
-### 🧑‍💻 Languages & Scripting
-🐍 Python  🧮 SQL  ⚡ PySpark
-
-### 🔄 Data Engineering & Pipelines
-🛠️ ETL Pipelines  📦 Apache Airflow  🔥 Apache Spark  📡 Kafka
-🐳 Docker  🧰 Git & GitHub  📃 Pandas / NumPy
-
-### ☁️ Cloud & Big Data
-☁️ AWS (S3, Lambda)  🔵 Azure  🌐 GCP (BigQuery, Cloud Functions)  ❄️ Snowflake
-
-### 📊 Business Intelligence
-📈 Power BI  📊 Tableau  📘 Excel (Advanced)
-
-### 🤖 AI & ML (Learning)
-🧠 Scikit-learn  🔍 Great Expectations  🏗️ Feast  🔁 Dagster
+I’m a passionate **Data Engineer & Analyst** who thrives on building smart, scalable, and AI-powered data workflows. From real-time Kafka pipelines to Power BI dashboards and GPT-enhanced analytics, I bridge the gap between raw data and impactful insights. I'm currently diving deep into **AI for data engineering** — automating everything from data ingestion to decision-making.
 
 ---
 
-## 🚀 Projects Highlight
+## ⚒️ Tech Stack
 
-### 1. 🌦️ Real-Time Weather ETL Pipeline
-- Built a serverless data pipeline using **GCP Cloud Functions** and **Scheduler**
-- Parsed OpenWeatherMap API responses, stored structured data in **BigQuery**
-- Stack: Python, REST API, JSON, GCP
+### 👨‍💻 Languages & Data
+`Python` | `SQL` | `Pandas` | `NumPy` | `PySpark`
 
-### 2. 🛒 E-Commerce Streaming Data Pipeline
-- Real-time order stream processing using **Kafka + Docker**
-- Ingested data into **Snowflake** for analytics, reduced latency by 40%
+### 🔄 Data Engineering
+`ETL Pipelines` | `Apache Airflow` | `Apache Spark` | `Kafka` | `Docker` | `Git & GitHub`
 
-### 3. 📉 Stock Price Analytics
-- Automated stock price tracking pipeline using **Airflow + AWS S3**
-- Used Financial Modeling Prep API and calculated technical indicators with **Pandas**
+### ☁️ Cloud & Storage
+`AWS (S3, Lambda)` | `Azure` | `GCP (BigQuery, Cloud Functions)` | `Snowflake`
 
-### 4. 🧾 AI-Powered KYC Verification
-- Built automated OCR-based document verifier for Aadhaar/PAN
-- Used **Python**, anomaly detection, and scalable ETL techniques
+### 📊 BI & Reporting
+`Power BI` | `Tableau` | `Excel (Advanced)`
+
+### 🤖 AI & Automation
+`OpenAI (GPT)` | `Scikit-learn` | `Great Expectations` | `Feast` | `Dagster`
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 AI-Powered Sales Dashboard
+Ask GPT-style questions like “Top 5 cities by sales?” — get real-time visual answers.  
+🔧 *Streamlit + Plotly + OpenAI + CSV*
+
+### 📊 Real-Time E-Commerce Pipeline  
+Built real-time order ingestion system using Kafka, Airflow, and Snowflake.  
+Reduced analytics latency by 40%.  
+🔧 *Kafka + Docker + Snowflake + Python*
+
+### 🌦️ Weather ETL Pipeline  
+Automated weather data collection using GCP Cloud Functions + Scheduler, stored in BigQuery.  
+🔧 *Python + GCP + REST APIs*
+
+### 📉 Stock Price Analytics  
+Created an Airflow ETL pipeline for live stock price tracking and moving average calculation.  
+🔧 *Airflow + AWS S3 + Pandas + Financial APIs*
+
+### 🧾 AI-Powered KYC Verifier  
+Built a document verification system using OCR and anomaly detection.  
+🔧 *Python + OpenCV + Pandas*
+
+---
+
+## 📜 Certifications
+
+- 🧠 Certified Data Engineer – *Datamites & IABAC*  
+- 📊 Power BI Virtual Internship – *PwC Switzerland (Forage)*  
+- 📈 Excel for Business – *JPMorgan Chase (Forage)*  
+- 📉 Business Analytics – *Microsoft SkillLearn*
 
 ---
 
 ## 🎓 Education
-
 **B.Tech – Electronics & Telecommunication**  
-G.H. Raisoni College of Engineering, Nagpur (2020–2024) | **CGPA:** 8.58
-
----
-
-## 🏅 Certifications
-
-- 🧠 Certified Data Engineer – **Datamites & IABAC**  
-- 📊 Power BI Job Simulation – **PwC Switzerland (Forage)**  
-- 📈 Excel Skills for Business – **JPMorgan Chase (Forage)**  
-- 📉 Business Analytics with Excel – **Microsoft SkillLearn**
+G.H. Raisoni College of Engineering, Nagpur  
+2020–2024 | CGPA: **8.58**
 
 ---
 
 ## 🔥 Currently Learning
 
-- ML Feature Store with **Feast**  
-- Data Quality Testing using **Great Expectations**  
-- CI/CD for Data Pipelines with **Dagster**  
-- AI-enhanced Analytics Workflows
+- AI-enhanced Analytics Workflows  
+- ML Feature Stores (Feast)  
+- Data Testing (Great Expectations)  
+- CI/CD for Data Pipelines (Dagster)
 
 ---
 
-## 🤝 Let’s Collaborate!
+## 🤝 Let’s Connect!
 
 I'm open to:
-- 💼 Full-time roles in **Data Engineering** or **Cloud Analytics**
-- 🧪 Freelance or open-source projects in AI + Data
-- 🗣️ Mentoring, learning, and networking with other data pros
+- 💼 Full-time roles in Data Engineering, Analytics, or Cloud AI
+- 🧪 Collaborations & freelance projects in AI + Data
+- 🗣️ Networking & mentorship opportunities
 
-📫 **Reach me at:**  
-📧 [amankanthiwar32@gmail.com](mailto:amankanthiwar32@gmail.com)  
-📞 +91 7020931214  
-🔗 [LinkedIn](https://linkedin.com/in/aman-kanthiwar-272725240)
+📬 **Reach me at:**  
+📧 amankanthiwar32@gmail.com | 📞 +91 7020931214  
+🔗 [LinkedIn](https://www.linkedin.com/in/amankanthiwar) | [GitHub](https://github.com/amankanthiwar)
+
