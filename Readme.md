@@ -105,9 +105,11 @@ I'm open to:
 🔗 [LinkedIn](https://linkedin.com/in/aman-kanthiwar-272725240) | [GitHub](https://github.com/Sk928551)
 
 ---
+## 📈 GitHub Stats & Activity
 
-## 📈 GitHub Activity
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sk928551&show_icons=true&theme=radical&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sk928551&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sk928551&theme=radical&hide_border=false)
 
-![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sk928551&show_icons=true&theme=radical&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sk928551&layout=compact&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=Sk928551&color=blue&style=flat)
 
