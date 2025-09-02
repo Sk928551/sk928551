@@ -78,6 +78,9 @@ Currently diving deeper into **AI & ML for Data Engineering** — automating eve
 ---
 
 ## 📜 Certifications  
+![OCI](https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure-Data%20Science%20Professional-red?style=for-the-badge&logo=oracle&logoColor=white)  
+
+- **Oracle Cloud Infrastructure Data Science Professional** ✅  
 - Certified Data Engineer – Datamites & IABAC  
 - Power BI Virtual Internship – PwC Switzerland (Forage)  
 - Excel for Business – JPMorgan Chase (Forage)  
@@ -90,4 +93,5 @@ Currently diving deeper into **AI & ML for Data Engineering** — automating eve
 💼 Open to **Full-time roles** in Data Engineering, Analytics, or Cloud AI  
 🧪 Available for **Collaborations & Freelance Projects** in AI + Data  
 📬 Reach me at **amankanthiwar32@gmail.com**  
+
 
